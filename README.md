@@ -1884,10 +1884,10 @@ Always follow responsible disclosure practices when finding vulnerabilities.
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Chat-Automation-Bot_Ai-Assistant&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Chat-Automation-Bot_Ai-Assistant"></a>
 
   <a href="https://github.com/SagarBiswas-MultiHAT/AI_Pickup-Line_Generator">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AI_Pickup-Line_Generator&repo=Chat-Automation-Bot_Ai-Assistant&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="AI_Pickup-Line_Generator"></a>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=AI_Pickup-Line_Generator&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="AI_Pickup-Line_Generator"></a>
 
   <a href="https://github.com/SagarBiswas-MultiHAT/Cyber-Command_AI-Assistant.exe">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AI_Pickup-Line_Generator&repo=Cyber-Command_AI-Assistant.exe&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Cyber-Command_AI-Assistant.exe"></a>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Cyber-Command_AI-Assistant.exe&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Cyber-Command_AI-Assistant.exe"></a>
 </p>
 
 <div align="center"><h2>🤖 Tools/Automation</h2></div>
