@@ -3,17 +3,17 @@
 > **A structured guide to help you navigate the overwhelming world of penetration testing**
 
 ## 📖 Table of Contents
-- [Introduction](#introduction)
-- [Prerequisites](#prerequisites)
-- [Phase 1: Foundation Building (4-6 weeks)](#phase-1-foundation-building-4-6-weeks)
-- [Phase 2: Core Skills Development (8-12 weeks)](#phase-2-core-skills-development-8-12-weeks)
-- [Phase 3: Specialization (12+ weeks)](#phase-3-specialization-12-weeks)
-- [Phase 4: Professional Development](#phase-4-professional-development)
-- [Practical Labs & Platforms](#practical-labs--platforms)
-- [Certification Roadmap](#certification-roadmap)
-- [Tools Checklist](#tools-checklist)
-- [Resources](#resources)
-- [Community](#community)
+- [Introduction](##introduction)
+- [Prerequisites](##prerequisites)
+- [Phase 1: Foundation Building (4-6 weeks)](##phase-1-foundation-building-4-6-weeks)
+- [Phase 2: Core Skills Development (8-12 weeks)](##phase-2-core-skills-development-8-12-weeks)
+- [Phase 3: Specialization (12+ weeks)](##phase-3-specialization-12-weeks)
+- [Phase 4: Professional Development](##phase-4-professional-development)
+- [Practical Labs & Platforms](##practical-labs--platforms)
+- [Certification Roadmap](##certification-roadmap)
+- [Tools Checklist](##tools-checklist)
+- [Resources](##resources)
+- [Community](##community)
 
 ## 🎭 Introduction
 
