@@ -1654,7 +1654,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - r/NetSecStudents - Learning and career advice
 - r/AskNetsec - Professional questions
 - r/HowToHack - Technical discussions
-- - [Reddit/hacking](https://www.reddit.com/r/hacking) Discuss about hacking and web security.
+- [Reddit/hacking](https://www.reddit.com/r/hacking) Discuss about hacking and web security.
 
 ### Local Groups
 - **OWASP Local Chapters**
