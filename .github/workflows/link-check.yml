@@ -1,0 +1,40 @@
+name: Check Links
+on:
+  schedule:
+    - cron: '0 0 * * 1'  # Every Monday at midnight UTC
+  workflow_dispatch:       # Allow manual trigger
+
+jobs:
+  linkcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Link Checker
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --accept 200,204,301,302,403,429
+            --exclude-loopback
+            --exclude-mail
+            --exclude 'twitter\.com'
+            --exclude 'x\.com'
+            --exclude 'facebook\.com'
+            --timeout 30
+            --max-retries 3
+            '**/*.md'
+          fail: false
+          format: markdown
+          output: link-check-report.md
+
+      - name: Create issue if broken links found
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "🔗 Weekly Link Check: Broken links detected"
+          content-filepath: link-check-report.md
+          labels: broken link, automated
