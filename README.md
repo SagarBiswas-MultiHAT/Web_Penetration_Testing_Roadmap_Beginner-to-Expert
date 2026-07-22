@@ -126,12 +126,6 @@ Contributions make this roadmap better for everyone! Whether you want to add a n
 
 ---
 
-## 📈 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=SagarBiswas-MultiHAT/penetration-testing-roadmap&type=Date)](https://star-history.com/#SagarBiswas-MultiHAT/penetration-testing-roadmap&Date)
-
----
-
 <div align="center">
 
 *Maintained with ❤️ by [@SagarBiswas-MultiHAT](https://github.com/SagarBiswas-MultiHAT) and the global InfoSec community under the [CC BY-SA 4.0 License](LICENSE).*
